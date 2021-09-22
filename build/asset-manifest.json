@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0abeb59d.chunk.css",
+    "main.js": "/static/js/main.5df2ce54.chunk.js",
+    "main.js.map": "/static/js/main.5df2ce54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06a7f06a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06a7f06a.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1cfb1024.chunk.js": "/static/js/2.1cfb1024.chunk.js",
+    "static/js/2.1cfb1024.chunk.js.map": "/static/js/2.1cfb1024.chunk.js.map",
+    "static/js/3.bc448d9e.chunk.js": "/static/js/3.bc448d9e.chunk.js",
+    "static/js/3.bc448d9e.chunk.js.map": "/static/js/3.bc448d9e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.0abeb59d.chunk.css.map": "/static/css/main.0abeb59d.chunk.css.map",
+    "static/js/2.1cfb1024.chunk.js.LICENSE.txt": "/static/js/2.1cfb1024.chunk.js.LICENSE.txt",
+    "static/media/About_one.97b65d39.jpg": "/static/media/About_one.97b65d39.jpg",
+    "static/media/About_two.3f764ad2.jpg": "/static/media/About_two.3f764ad2.jpg",
+    "static/media/My_Logo.6be9c06c.PNG": "/static/media/My_Logo.6be9c06c.PNG",
+    "static/media/fourrrr.745f36d5.jpg": "/static/media/fourrrr.745f36d5.jpg",
+    "static/media/home_one.e120df09.jpg": "/static/media/home_one.e120df09.jpg",
+    "static/media/home_three.aecfa150.jpg": "/static/media/home_three.aecfa150.jpg",
+    "static/media/home_two.5128c7d0.jpg": "/static/media/home_two.5128c7d0.jpg",
+    "static/media/onee.2f31f6e5.jpg": "/static/media/onee.2f31f6e5.jpg",
+    "static/media/slide1.7ea8b307.jpg": "/static/media/slide1.7ea8b307.jpg",
+    "static/media/slide2.5c9a1257.jpg": "/static/media/slide2.5c9a1257.jpg",
+    "static/media/slide3.e34652a4.jpg": "/static/media/slide3.e34652a4.jpg",
+    "static/media/sub_one.1738afbe.jpg": "/static/media/sub_one.1738afbe.jpg",
+    "static/media/sub_three.03460e3e.jpg": "/static/media/sub_three.03460e3e.jpg",
+    "static/media/threee.2e79f0e7.jpg": "/static/media/threee.2e79f0e7.jpg",
+    "static/media/trans_.cb0657f0.jpg": "/static/media/trans_.cb0657f0.jpg",
+    "static/media/twooo.a51d652e.jpg": "/static/media/twooo.a51d652e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a7f06a.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.1cfb1024.chunk.js",
+    "static/css/main.0abeb59d.chunk.css",
+    "static/js/main.5df2ce54.chunk.js"
+  ]
+}
